@@ -2,13 +2,19 @@
 <p align="center">
     <img src="static/images/cover.png" width="600px" />
 </p>
+<p align="center">
+    Frequently Azion Asked Questions to help the process to simplify the knowldge os Azion Edge Platform.
+</p>
 
-Frequently Azion Asked Questions to help the process to simplify the knowldge os Azion Edge Platform.
+<br />
 
-## Why is my Azion's Edge Function returning 403 HTTP Status?
+## QUESTIONS AND ANSWERS
+### 1. Why is my Azion's Edge Function returning 403 HTTP Status?
+
 To be able to send POST HTTP Requests you need to have Application Acceleration enabled.
 
-## Why can't I modify the Rules Engine **criteria**?
+### 2. Why can't I modify the Rules Engine criteria?
+
 To be able to modify the rules engine criteria you need to have Application Acceleration enabled.
 With that you will be able to select:
 
@@ -39,6 +45,6 @@ With that you will be able to select:
 - ${scheme}
 - ${uri}
 
-## Can you give me example of Azion Edge Functions?
+### 3. Can you give me example of Azion Edge Functions?
 To easly support you to create a new Azion Edge functions, just pick the best sample for you code in the following Github repository.
 https://github.com/aziontech/azion-samples
