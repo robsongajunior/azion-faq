@@ -1,4 +1,4 @@
-<h1 align="center">Azion FAQ</h1>
+<h1 align="center">FAQ | Azion Technologies</h1>
 <p align="center">
     <img src="static/images/cover.png" width="600px" />
 </p>
