@@ -1,4 +1,5 @@
-# Azion FAQ - Frequently Asked Questions
+# Azion FAQ
+Frequently Azion Asked Questions to help the process to simplify the knowldge os Azion Edge Platform.
 
 ## Why is my Azion's Edge Function returning 403?
 To be able to send POST HTTP Requests you need to have Application Acceleration enabled.
