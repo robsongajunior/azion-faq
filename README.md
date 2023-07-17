@@ -38,3 +38,7 @@ With that you will be able to select:
 - ${request}
 - ${scheme}
 - ${uri}
+
+## Can you give me example of Azion Edge Functions?
+To easly support you to create a new Azion Edge functions, just pick the best sample for you code in the following Github repository.
+https://github.com/aziontech/azion-samples
