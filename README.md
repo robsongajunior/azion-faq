@@ -8,7 +8,7 @@ Frequently Azion Asked Questions to help the process to simplify the knowldge os
 ## Why is my Azion's Edge Function returning 403?
 To be able to send POST HTTP Requests you need to have Application Acceleration enabled.
 
-## Why I can't modify the Rules Engine *criteria*?
+## Why I can't modify the Rules Engine **criteria**?
 To be able to modify the rules engine criteria you need to have Application Acceleration enabled.
 With that you will be able to select:
 
