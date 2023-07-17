@@ -1,4 +1,8 @@
 # Azion FAQ
+<p align="center">
+    <img src ="./assets/images/cover.png" width="600px" />
+</p>
+
 Frequently Azion Asked Questions to help the process to simplify the knowldge os Azion Edge Platform.
 
 ## Why is my Azion's Edge Function returning 403?
