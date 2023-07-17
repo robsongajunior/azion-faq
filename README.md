@@ -5,7 +5,7 @@
 <p align="center">
     <a target="_blank" href="https://www.azion.com/en/documentation/products/getting-started/" title="Azion Documentation | Getting Started">Azion Documentation | Getting Started</a>
     <br />
-    Frequently Azion Asked Questions to help the process to simplify the knowldge os Azion Edge Platform.
+    Frequently Azion Asked Questions to help the process to simplify the knowldge os <a href="https://www.azion.com/en/">Azion</a> Edge Platform.
 </p>
 
 <br />
