@@ -1,5 +1,8 @@
 # Azion FAQ
 <p align="center">
+    <a target="_blank" href="https://www.azion.com/en/documentation/products/getting-started/" title="Azion Documentation | Getting Started">Azion Documentation | Getting Started</a>
+</p>
+<p align="center">
     <img src="static/images/cover.png" width="600px" />
 </p>
 <p align="center">
